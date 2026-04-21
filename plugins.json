@@ -15,7 +15,7 @@
         "version": 43,
         "internalName": "ThuVienHDProvider",
         "description": "Kho phim ThuVienHD.TOP - Phim lẻ, Phim bộ Full HD link Fshare",
-        "url": "https://raw.githubusercontent.com/forcef5/FSCloudstream/main/ThuVienHDProvider.cs3",
+        "url": "https://github.com/forcef5/FSCloudstream/raw/refs/heads/main/ThuVienHDProvider.cs3",
         "name": "ThuVienHD"
     },
     {
@@ -34,7 +34,7 @@
         "version": 43,
         "internalName": "ThuVienCineProvider",
         "description": "Kho phim ThuVienCine.com - Phim HD 4K Vietsub link Fshare",
-        "url": "https://raw.githubusercontent.com/forcef5/FSCloudstream/main/ThuVienCineProvider.cs3",
+        "url": "https://github.com/forcef5/FSCloudstream/raw/refs/heads/main/ThuVienCineProvider.cs3",
         "name": "ThuVienCine"
     },
     {
@@ -53,7 +53,7 @@
         "version": 43,
         "internalName": "GoogleSheetProvider",
         "description": "Nhập kho phim từ Google Sheets - Phim lẻ, Phim bộ link Fshare",
-        "url": "https://raw.githubusercontent.com/forcef5/FSCloudstream/main/GoogleSheetProvider.cs3",
+        "url": "https://github.com/forcef5/FSCloudstream/raw/refs/heads/main/GoogleSheetProvider.cs3",
         "name": "GoogleSheetProvider"
     },
     {
@@ -72,7 +72,7 @@
         "version": 43,
         "internalName": "FshareFavoriteProvider",
         "description": "Kho phim từ Fshare Yêu Thích - Đọc dữ liệu từ Favorites/Folder của tài khoản Fshare VIP",
-        "url": "https://raw.githubusercontent.com/forcef5/FSCloudstream/main/FshareFavoriteProvider.cs3",
+        "url": "https://github.com/forcef5/FSCloudstream/raw/refs/heads/main/FshareFavoriteProvider.cs3",
         "name": "Fshare Yêu Thích"
     }
 ]
