@@ -1,0 +1,8 @@
+{
+    "name": "Vietnamese Movie Extension",
+    "description": "Kho phim Việt Nam - ThuVienHD, ThuVienCine, Google Sheet",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://github.com/forcef5/FSCloudstream/raw/refs/heads/main/plugins.json"
+    ]
+}
